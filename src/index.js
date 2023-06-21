@@ -10,7 +10,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<AAntDesign />}/>
+        <Route path="/" element={<AFluent />}/>
         <Route path="fluent" element={<AFluent />} />
           {/* <Route index element={<AAntDesign />} /> */}
           {/* <Route path="*" element={<AAntDesign />} /> */}
