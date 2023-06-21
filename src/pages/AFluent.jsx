@@ -39,7 +39,7 @@ import { data } from "../component/constants";
 import { ProgressBarRenderer } from "../component/ProgressBar";
 import { StarsRenderer } from "../component/Stars";
 import "pikaday/css/pikaday.css";
-import "handsontable/dist/handsontable.min.css";
+import 'handsontable/dist/handsontable.full.min.css';
 import {
     drawCheckboxInRowHeaders,
     addClassesToRows,
